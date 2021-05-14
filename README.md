@@ -5,8 +5,8 @@
 
 
 <div align='center'>
-  <p>I'm <strong>Carlos</strong>, a Software <b>Developer / HomeBrewer / Musician</b> interested in creating clean and inspiring code solving daily challenges.</p>
-  <p>Let's code together!. Send me a message to: <br> <a href="mailto:hello@carlosrobles.tech">Here!</a></p>
+  <p>I'm <strong>Carlos</strong>, a Software <b>Developer / Home Brewer / Musician</b> interested in creating clean and inspiring code solving daily challenges.</p>
+  <p>Let's code!. Send me a message: <br> <a href="mailto:hello@carlosrobles.tech">Here!</a></p>
   <p>My daily routine starts with a cup of coffee!</p>
 
 </div>
@@ -109,7 +109,7 @@
 
 <div align='center'>
 
-**I am learning**
+**Learning These Technologies:**
 
 </div>
 
