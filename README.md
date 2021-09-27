@@ -159,6 +159,9 @@
 
 <div align='center'>
 
+  [![Carlos's github activity graph](https://activity-graph.herokuapp.com/graph?username=carlos-ssh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ![bottom doodle](resources/me.gif)
 
 ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carlos-ssh&show_icons=true&theme=radical)
