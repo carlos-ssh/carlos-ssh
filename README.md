@@ -22,7 +22,7 @@
 <br>
 
 <div align='center'>
-  <a href='http://www.carlosrobles.tech' target='_blank' rel='noopener' rel='noreferrer'>
+  <a href='https://carlosflores.online' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=Website&message=carlosrobles.tech&color=black&style=flat-square&logo=google-chrome' />
   </a>
   <a href='https://www.linkedin.com/in/carlos-ssh' target='_blank' rel='noopener' rel='noreferrer'>
@@ -111,8 +111,6 @@
 
 <div align='center'>
 
-**Stack of Technologies:**
-
 </div>
 
 <div align='center'>
@@ -133,8 +131,6 @@
 </div>
 
 <div align='center'>
-
-**preferences**
 
 </div>
 
