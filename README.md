@@ -43,7 +43,7 @@
 
 # *My Stack* **:**
 
- **LANGUAGES**
+ **Languages and Technologies**
 
 </div>
 
@@ -66,8 +66,6 @@
 </div>
 
 <div align='center'>
-
- **TOOLS**
 
 </div>
 
