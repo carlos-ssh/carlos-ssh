@@ -111,7 +111,7 @@
 
 <div align='center'>
 
-**Learning These Technologies:**
+**Stack of Technologies:**
 
 </div>
 
