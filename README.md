@@ -157,9 +157,7 @@
 </div>
 
 <div align='center'>
-
-  [![Carlos's github activity graph](https://activity-graph.herokuapp.com/graph?username=carlos-ssh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  [![Carlos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carlos-ssh&bg_color=171717&color=ffffff&line=00ff2a&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Views](https://komarev.com/ghpvc/?username=carlos-ssh)
 
